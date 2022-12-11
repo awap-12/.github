@@ -15,4 +15,4 @@ We're AWAP-12.
 
 ## Projects
 - [client: The React frontend](https://github.com/awap-12/client)
-- [server: The JS express mysql backend](https://github.com/awap-12/server)
+- [server: The JS express mysql backend](https://github.com/awap-12/visualization-server)
